@@ -29,6 +29,7 @@ h1 {
   margin-bottom: 10px;
   text-shadow: 0 0 1px hsl(31, 77%, 52%);
   font-family: "Lexend Deca", sans-serif;
+  cursor: pointer;
 }
 
 .cyan {
@@ -49,6 +50,7 @@ h1 {
   margin-bottom: 10px;
   text-shadow: 0 0 1px hsl(184, 100%, 22%);
   font-family: "Lexend Deca", sans-serif;
+  cursor: pointer;
 }
 
 .dark {
@@ -69,12 +71,13 @@ h1 {
   margin-bottom: 10px;
   text-shadow: 0 0 1px hsl(179, 100%, 13%);
   font-family: "Lexend Deca", sans-serif;
+  cursor: pointer;
 }
 
 .whole {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   margin-top: 100px;
 }
 body {
